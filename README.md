@@ -3,4 +3,4 @@
 
 **Database used**: https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data 
 
-*Note*: This project is done for CMPE256 by a group of 3 members.
+*Note*: This project is done for CMPE256 by a group of three members.
